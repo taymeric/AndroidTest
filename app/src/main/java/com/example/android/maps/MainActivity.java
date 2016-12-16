@@ -1,4 +1,4 @@
-package com.example.android.gitexample;
+package com.example.android.maps;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

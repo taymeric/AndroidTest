@@ -1,4 +1,4 @@
-package com.example.android.gitexample;
+package com.example.android.maps;
 
 import org.junit.Test;
 

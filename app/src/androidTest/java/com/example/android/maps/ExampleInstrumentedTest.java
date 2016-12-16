@@ -1,4 +1,4 @@
-package com.example.android.gitexample;
+package com.example.android.maps;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
